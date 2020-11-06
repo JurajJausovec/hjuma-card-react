@@ -3,7 +3,7 @@ import "./HjumaCard.css";
 
 export default function HjumaCard(props) {
     return (
-        <div className={props.type}>
+        <div className={props.type} style={{background: props.background, color: props.fontcolor}}>
             <div id="titleCenterDiv">
                 <h2 id="cardTitle">{props.title}</h2>
                 <h2 id="cardCenter">{props.center}</h2>
