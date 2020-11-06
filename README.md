@@ -16,9 +16,9 @@ Use `import HjumaCard from 'hjuma-card-react'`
 
 ### examples
 
-<!-- <HjumaCard type="centered" title="I love dogs" center="🐶" footer="I really like dogs" /> -->
-<!-- <HjumaCard type="simple" title="I love frogs" center="🐸" /> -->
-<!-- <HjumaCard type="mini" title="I love birds" center="🐦"/> -->
+`<HjumaCard type="centered" title="I love dogs" center="🐶" footer="I really like dogs" />`
+`<HjumaCard type="simple" title="I love frogs" center="🐸" />` 
+`<HjumaCard type="mini" title="I love birds" center="🐦"/>` 
 
 
 ## Learn more
