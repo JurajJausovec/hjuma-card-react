@@ -16,8 +16,13 @@ Use `import HjumaCard from 'hjuma-card-react'`
 
 ### examples
 
+#### centered
 `<HjumaCard type="centered" title="I love dogs" center="🐶" footer="I really like dogs" />`
+
+#### simple
 `<HjumaCard type="simple" title="I love frogs" center="🐸" />` 
+
+#### mini
 `<HjumaCard type="mini" title="I love birds" center="🐦"/>` 
 
 
