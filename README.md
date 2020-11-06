@@ -2,7 +2,7 @@ Simple cards with simple style
 
 Use
 
-import HjumaCard from 'HjumaCardReact'
+import HjumaCard from 'hjuma-card-react'
 
 Examples
 
