@@ -6,6 +6,7 @@
     border-radius: 2px;
     display: block;
     background-color: #2E2E2E;
+    color: white;
     text-align: center;
     font-family: 'Hind Siliguri', sans-serif;
 }
@@ -13,15 +14,19 @@
     width: 188px;
     height: 97px;
     padding-top: 1px;
+    color: white;
     background-color: #2E2E2E;
     border-radius: 2px;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 .mini{
     width: 232px;
     height: 59px;   
     padding-top: 1px;
+    color: white;
     background-color: #2E2E2E;
     border-radius: 2px;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 .centered #cardTitle{
     font-weight: 600;

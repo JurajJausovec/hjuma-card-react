@@ -9,7 +9,7 @@ export default function HjumaCard(props) {
                 <h2 id="cardCenter">{props.center}</h2>
             </div>
             <h5 id="cardFooter">{props.footer}</h5>
-            <div id="verticalLine"></div>
+            <div id="verticalLine" style={{background: props.verticalLineColor}}></div>
         </div>
     )
 }

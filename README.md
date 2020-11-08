@@ -28,7 +28,7 @@ Use `import HjumaCard from 'hjuma-card-react'`
 
 ### customization 
 
-You can change your background color with `background="#color"` and your font color with `fontcolor="#color"!`  
+You can change your background color with `background="#color"` your font color with `fontcolor="#color"!`  
 
 
 ## Learn more
